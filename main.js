@@ -93,7 +93,13 @@ let columns = [],
 let spinInterval, isScatter_Ongoing = false;
 
 getRandomNum();//----------------------------------------------start---------------
-
+for(i = 0; i < red_wildCards.length; i++){
+  for(j = 0; j < red_wildCards[0].length; j++){
+    for(k = 0; k < red_wildCards[0][0].length; k++){
+       red_wildCards[i][j][k].innerHTML == "<img title=\"diamond_card\" src=\"cards_images/red_wildCard.png\">";
+    }
+  }
+}
 spinBtn.addEventListener("click", ()=> {//-----------------clicked-----------
   if(free_spins >= 1){
     isScatter_Ongoing = true;
