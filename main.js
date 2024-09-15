@@ -55,7 +55,7 @@ let slotsCardNo = [
     [cardNo_c4L1, cardNo_c4L2, cardNo_c4L3, cardNo_c4L4],
     [cardNo_c5L1, cardNo_c5L2, cardNo_c5L3, cardNo_c5L4]];
     
-const ace = "<img title=\"ace_card\" src=\"/cards_images/aceCard.png\">",
+const ace = "<img title=\"ace_card\" src=\"scatterClone/cards_images/aceCard.png\">",
       king = "<img title=\"king_card\" src=\"/cards_images/kingCard.png\">",
       queen = "<img title=\"queen_card\" src=\"/cards_images/queenCard.png\">",
       jack = "<img title=\"jack_card\" src=\"/cards_images/jackCard.png\">",
