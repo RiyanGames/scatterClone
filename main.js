@@ -56,26 +56,26 @@ let slotsCardNo = [
     [cardNo_c5L1, cardNo_c5L2, cardNo_c5L3, cardNo_c5L4]];
     
 const ace = "<img title=\"ace_card\" src=\"cards_images/aceCard.png\">",
-      king = "<img title=\"king_card\" src=\"/cards_images/kingCard.png\">",
-      queen = "<img title=\"queen_card\" src=\"/cards_images/queenCard.png\">",
-      jack = "<img title=\"jack_card\" src=\"/cards_images/jackCard.png\">",
-      spade = "<img title=\"spade_card\" src=\"/cards_images/spadeCard.png\">",
-      flower = "<img title=\"flower_card\" src=\"/cards_images/flowerCard.png\">",
-      heart = "<img title=\"heart_card\" src=\"/cards_images/heartCard.png\">",
-      diamond = "<img title=\"diamond_card\" src=\"/cards_images/diamondCard.png\">",
-      scatter = "<img title=\"scatter\" src=\"/cards_images/super-ace-03.png\">",
-      cardBack = "<img title=\"scatter\" src=\"/cards_images/cardBack.png\">",
-      wildCard = "<img title=\"wild\" src=\"/cards_images/wild.png\">",
-      red_wildCard = "<img title=\"red_wild\" src=\"/cards_images/red_wildCard.png\">";
+      king = "<img title=\"king_card\" src=\"cards_images/kingCard.png\">",
+      queen = "<img title=\"queen_card\" src=\"cards_images/queenCard.png\">",
+      jack = "<img title=\"jack_card\" src=\"cards_images/jackCard.png\">",
+      spade = "<img title=\"spade_card\" src=\"cards_images/spadeCard.png\">",
+      flower = "<img title=\"flower_card\" src=\"cards_images/flowerCard.png\">",
+      heart = "<img title=\"heart_card\" src=\"cards_images/heartCard.png\">",
+      diamond = "<img title=\"diamond_card\" src=\"cards_images/diamondCard.png\">",
+      scatter = "<img title=\"scatter\" src=\"cards_images/super-ace-03.png\">",
+      cardBack = "<img title=\"scatter\" src=\"cards_images/cardBack.png\">",
+      wildCard = "<img title=\"wild\" src=\"cards_images/wild.png\">",
+      red_wildCard = "<img title=\"red_wild\" src=\"cards_images/red_wildCard.png\">";
       
-const golden_ace = "<img title=\"ace_card\" src=\"/cards_images/golden_aceCard.png\">",
-      golden_king = "<img title=\"king_card\" src=\"/cards_images/golden_kingCard.png\">",
-      golden_queen = "<img title=\"queen_card\" src=\"/cards_images/golden_queenCard.png\">",
-      golden_jack = "<img title=\"jack_card\" src=\"/cards_images/golden_jackCard.png\">",
-      golden_spade = "<img title=\"spade_card\" src=\"/cards_images/golden_spadeCard.png\">",
-      golden_flower = "<img title=\"flower_card\" src=\"/cards_images/golden_flowerCard.png\">",
-      golden_heart = "<img title=\"heart_card\" src=\"/cards_images/golden_heartCard.png\">",
-      golden_diamond = "<img title=\"diamond_card\" src=\"/cards_images/golden_diamondCard.png\">";
+const golden_ace = "<img title=\"ace_card\" src=\"cards_images/golden_aceCard.png\">",
+      golden_king = "<img title=\"king_card\" src=\"cards_images/golden_kingCard.png\">",
+      golden_queen = "<img title=\"queen_card\" src=\"cards_images/golden_queenCard.png\">",
+      golden_jack = "<img title=\"jack_card\" src=\"cards_images/golden_jackCard.png\">",
+      golden_spade = "<img title=\"spade_card\" src=\"cards_images/golden_spadeCard.png\">",
+      golden_flower = "<img title=\"flower_card\" src=\"cards_images/golden_flowerCard.png\">",
+      golden_heart = "<img title=\"heart_card\" src=\"cards_images/golden_heartCard.png\">",
+      golden_diamond = "<img title=\"diamond_card\" src=\"cards_images/golden_diamondCard.png\">";
       
 let random, price, current_Price, total_price, scateerNo, free_spins = 0, isScatter = false, limit_loop = 100;
 
